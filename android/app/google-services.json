@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "540374592855",
+    "firebase_url": "https://api-calls-legend-ebe69.firebaseio.com",
+    "project_id": "api-calls-legend-ebe69",
+    "storage_bucket": "api-calls-legend-ebe69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540374592855:android:a1129dd92d7147d8cb2212",
+        "android_client_info": {
+          "package_name": "co.geraldi.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540374592855-bqngo4qo2fa9qrdns43m7ouuabta5t00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbqek-71eqVTJBDVjgy2zpoX0rJHo6k3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540374592855-bqngo4qo2fa9qrdns43m7ouuabta5t00.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540374592855-id96ai8c1buiq18p3tm9fi7t3431msqr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.geraldi.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540374592855:android:9f2191a36617c7fecb2212",
+        "android_client_info": {
+          "package_name": "com.enyata.rgproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540374592855-bqngo4qo2fa9qrdns43m7ouuabta5t00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbqek-71eqVTJBDVjgy2zpoX0rJHo6k3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540374592855-bqngo4qo2fa9qrdns43m7ouuabta5t00.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540374592855-id96ai8c1buiq18p3tm9fi7t3431msqr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.geraldi.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
